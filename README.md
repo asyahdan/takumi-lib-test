@@ -7,3 +7,4 @@ Kontribusi terbuka dan bebas silahkan hubungi saya jika ingin menjadi kontributo
 Project yang akan dibuat kali ini adalah game Shoot em up seperti touhou
 
 Konsep game :
+1. Shoot em up game
